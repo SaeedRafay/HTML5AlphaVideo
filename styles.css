@@ -8,8 +8,8 @@ body {
 	transform: translate(-50%, -50%);
 }
 #output {
-	width: auto;
-	height: 100%;
+	width: 480px;
+	height: 244px;
 }
 #buffer {
 	display: none;

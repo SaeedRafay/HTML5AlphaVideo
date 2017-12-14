@@ -34,7 +34,11 @@ window.addEventListener("load", function(){
 		}, false);
 		
 		video.addEventListener('ended', function() {
-			document.getElementById('video_holder').style.display = "none";
+			//Use the following line to hide video when the video ends
+			//document.getElementById('video_holder').style.display = "none";
+
+			//Use video.play() if you want to loop over the video
+			video.play();
 		}, false);
 
 	}, 1000);
