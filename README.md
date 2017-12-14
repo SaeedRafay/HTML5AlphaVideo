@@ -77,7 +77,7 @@ window.addEventListener("load", function(){
 });
 ```
 
-7. Add following CSS code (This code covers the whole )
+7. Add following CSS code
 
 ```sh
 #video_holder {
