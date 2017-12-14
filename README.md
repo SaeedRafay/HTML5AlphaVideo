@@ -7,14 +7,10 @@ HTML5 does not have alpha support for videos. This package shows you how to use 
 1. Create your animation or video with no background in After Effects
 
 2. Export a web friendly video (h264/mp4) with RGB channel
-[2]
+https://github.com/SaeedRafay/HTML5AlphaVideo/raw/master/images/rgb.png
 
 3. Export the same video again but this time with Alpha channel
-[1]
+https://github.com/SaeedRafay/HTML5AlphaVideo/raw/master/images/alpha.png
 
 4. Now stack both video one above the other like shown below
-[3]
-
-[1]:https://github.com/SaeedRafay/HTML5AlphaVideo/raw/master/images/alpha.png
-[2]:https://github.com/SaeedRafay/HTML5AlphaVideo/raw/master/images/rgb.png
-[3]:https://github.com/SaeedRafay/HTML5AlphaVideo/raw/master/images/stacked_videos.jpg
+https://github.com/SaeedRafay/HTML5AlphaVideo/raw/master/images/stacked_videos.jpg
